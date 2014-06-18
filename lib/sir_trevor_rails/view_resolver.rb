@@ -1,3 +1,5 @@
+require 'action_view/template/resolver'
+
 module SirTrevorRails
   class ViewResolver < ::ActionView::FileSystemResolver
 
